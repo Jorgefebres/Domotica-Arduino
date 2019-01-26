@@ -18,8 +18,6 @@ _Se requiere el siguiente software y librerías:_
 
 ## Hardware Utilizado: 🛠️
 
-_Codigo_
-
 * [Arduino UNO](https://store.arduino.cc/usa/arduino-uno-rev3) - Microcontrolador
 * [HC-06](https://naylampmechatronics.com/blog/15_Configuraci%C3%B3n--del-m%C3%B3dulo-bluetooth-HC-06-usa.html) - Módulo bluetooth para el arduino
 * [ds18b20](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) - Sensor digital de temperatura  
