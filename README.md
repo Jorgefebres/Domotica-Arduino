@@ -26,4 +26,4 @@ _Se requiere el siguiente software y librerías:_
 
 _Los Autores y colaboradores de este proyecto fueron:_
 
-* **Jorge Adolfo Febres Cabrera** - *Análisis, Desarrollo e Implemantacion* - [Jorge Febres](https://github.com/Jorgefebres/)
+* **Jorge Adolfo Febres Cabrera** - *Análisis, Desarrollo e Implementacion* - [Jorge Febres](https://github.com/Jorgefebres/)
